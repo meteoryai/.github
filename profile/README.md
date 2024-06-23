@@ -9,6 +9,7 @@ Official website: [meteory.ai](https://meteory.ai/)
 ## Connect with us
 
 - [LinkedIn @meteoryai](https://www.linkedin.com/company/meteoryai)
-- [Facebook @meteoryai](https://facebook.com/meteoryai)
+- [Facebook @meteoryai](https://www.facebook.com/meteoryai)
 - [X/Twitter @meteoryai](https://twitter.com/meteoryai)
 - [GitHub @meteoryai](https://github.com/meteoryai)
+- [YouTube @meteoryai](https://www.youtube.com/@meteoryai)
